@@ -4,9 +4,9 @@
 </p>
 
 <div align="center">
-  <a href="https://www.jiangongfang.top"><img src="https://img.shields.io/badge/web-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
-  <a href="https://x.com/xiaomuge898/"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-black"></a>&emsp;
-  <a href="https://blog.csdn.net/weixin_46625757"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
+  <a href="https://www.jiangongfang.top"><img src="https://img.shields.io/badge/Web-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue?style=flat&logo=google-chrome&logoColor=white"></a>&nbsp;
+  <a href="https://x.com/xiaomuge898/"><img src="https://img.shields.io/badge/Twitter-推特-1B1B1B?style=flat&logo=x&logoColor=white" /></a>&nbsp;
+  <a href="https://blog.csdn.net/weixin_46625757"><img src="https://img.shields.io/badge/CSDN-博客-DC143C?style=flat&logo=csdn&logoColor=white" /></a>
 </div>
 
 <div align="center">
