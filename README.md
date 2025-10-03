@@ -1,1 +1,30 @@
-## Hi there 👋
+<h1 align="center">🐍 Python + ☕ Coffee + 💻 Code = Me</h1>
+<p align='center'>
+  用爬虫谋生的有志青年，沉迷于爬虫 · 逆向 · 渗透 · 自动化，正一步步探索更深层的技术世界
+</p>
+
+<div align="center">
+  <a href="https://www.jiangongfang.top"><img src="https://img.shields.io/badge/web-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
+  <a href="https://x.com/xiaomuge898/"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-black"></a>&emsp;
+  <a href="https://blog.csdn.net/weixin_46625757"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
+</div>
+
+<div align="center">
+    <h2>💻 开发语言 &emsp;&emsp; 🛠️ 工具设备</h2>
+    <br/>
+    <img src="https://img.shields.io/badge/-HTML5-FF6C00?style=flat&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Python-306998?style=flat&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=Nginx&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm&logoColor=white" />
+    <img src="https://img.shields.io/badge/-QT-41CD52?style=flat&logo=QT&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Fiddler-3399FF?style=flat&logo=Fiddler&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Clash%20Verge-FF4500?style=flat&logo=Clash&logoColor=white" />
+</div>
