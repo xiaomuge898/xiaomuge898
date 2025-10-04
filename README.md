@@ -6,7 +6,8 @@
 <div align="center">
   <a href="https://www.jiangongfang.top"><img src="https://img.shields.io/badge/Web-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue?style=flat&logo=google-chrome&logoColor=white"></a>&nbsp;
   <a href="https://x.com/xiaomuge898/"><img src="https://img.shields.io/badge/Twitter-推特-1B1B1B?style=flat&logo=x&logoColor=white" /></a>&nbsp;
-  <a href="https://blog.csdn.net/weixin_46625757"><img src="https://img.shields.io/badge/CSDN-博客-DC143C?style=flat&logo=csdn&logoColor=white" /></a>
+  <a href="https://blog.csdn.net/weixin_46625757"><img src="https://img.shields.io/badge/CSDN-博客-DC143C?style=flat&logo=csdn&logoColor=white" /></a>&nbsp;
+  <img src="https://img.shields.io/badge/微信-QHJ__WZ-DC143C?style=flat&logo=wechat&logoColor=white" />
 </div>
 
 <div align="center">
