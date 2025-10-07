@@ -13,19 +13,27 @@
 <div align="center">
     <h2>💻 开发语言 &emsp;&emsp; 🛠️ 工具设备</h2>
     <br/>
-    <img src="https://img.shields.io/badge/-HTML5-FF6C00?style=flat&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Python-306998?style=flat&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=Nginx&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Debian&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm&logoColor=white" />
-    <img src="https://img.shields.io/badge/-QT-41CD52?style=flat&logo=QT&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Fiddler-3399FF?style=flat&logo=Fiddler&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Clash%20Verge-FF4500?style=flat&logo=Clash&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+    <br/>
+    <img src="https://img.shields.io/badge/-HTML5-FF6C00?style=flat-square&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=Nginx&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white" />
+    <img src="https://img.shields.io/badge/-QT-41CD52?style=flat-square&logo=QT&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Fiddler-3399FF?style=flat-square&logo=Fiddler&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Clash%20Verge-FF4500?style=flat-square&logo=Clash&logoColor=white" />
+</div>
+
+<div align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=xiaomuge898&show_icons=true&theme=transparent&hide_title=true&hide_border=true" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaomuge898&layout=compact&theme=transparent&hide_border=true" />
 </div>
