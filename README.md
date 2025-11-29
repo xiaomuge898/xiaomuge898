@@ -33,8 +33,8 @@
     <img src="https://img.shields.io/badge/-Clash%20Verge-FF4500?style=flat-square&logo=Clash&logoColor=white" />
 </div>
 <div align="center">
-  <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=xiaomuge898&show_icons=true&theme=transparent&hide_title=true&hide_border=true" />
-  <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xiaomuge898&layout=compact&theme=transparent&hide_border=true" />
+  <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=xiaomuge898&show_icons=true&theme=transparent&hide_title=true&hide_border=true&bg_color=000" />
+  <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xiaomuge898&layout=compact&theme=transparent&hide_border=true&bg_color=000" />
 </div>
 
 
