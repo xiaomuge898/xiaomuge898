@@ -9,7 +9,6 @@
   <a href="https://blog.csdn.net/weixin_46625757"><img src="https://img.shields.io/badge/CSDN-博客-DC143C?style=flat&logo=csdn&logoColor=white" /></a>&nbsp;
   <img src="https://img.shields.io/badge/微信-QHJ__WZ-DC143C?style=flat&logo=wechat&logoColor=white" />
 </div>
-
 <div align="center">
     <h2>💻 开发语言 &emsp;&emsp; 🛠️ 工具设备</h2>
     <br/>
@@ -34,6 +33,12 @@
 </div>
 
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=xiaomuge898&show_icons=true&theme=transparent&hide_title=true&hide_border=true" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaomuge898&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiaomuge898&theme=github-compact&bg_color=00000000" />
 </div>
+
+
+
+
+
+
+
