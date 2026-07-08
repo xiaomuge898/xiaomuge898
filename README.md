@@ -30,6 +30,7 @@
     <img src="https://img.shields.io/badge/-QT-41CD52?style=flat-square&logo=QT&logoColor=white" />
     <img src="https://img.shields.io/badge/-Fiddler-3399FF?style=flat-square&logo=Fiddler&logoColor=white" />
     <img src="https://img.shields.io/badge/-Clash%20Verge-FF4500?style=flat-square&logo=Clash&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenAI%20Codex-000000?style=flat-square&logo=openai&logoColor=white" />
 </div>
 
 <div align="center">
