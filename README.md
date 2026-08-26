@@ -30,12 +30,9 @@
     <img src="https://img.shields.io/badge/-Reqable-fcb334?style=flat-square&logo=Reqable&logoColor=white" />
     <img src="https://img.shields.io/badge/-QT-41CD52?style=flat-square&logo=QT&logoColor=white" />
     <img src="https://img.shields.io/badge/-Fiddler-3399FF?style=flat-square&logo=Fiddler&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Clash%20Verge-FF4500?style=flat-square&logo=Clash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Smartdns-1740ec?style=flat-square&logo=Clash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sing%20Box-FF4500?style=flat-square&logo=Clash&logoColor=white" />
     <img src="https://img.shields.io/badge/OpenAI%20Codex-000000?style=flat-square&logo=openai&logoColor=white" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiaomuge898&theme=github-compact&bg_color=00000000" />
 </div>
 
 
